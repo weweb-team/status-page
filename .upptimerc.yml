@@ -30,9 +30,9 @@ status-website:
   cname: status.weweb.io
   # baseUrl: /your-repo-name
   logoUrl: https://cdn.prod.website-files.com/62e9199d4976608473849e5a/683dd4bf5096e2fe24c314b8_weweb-logo-wordmark-white-p-500.png
-  name: Status Page
-  introTitle: "This is the official **WeWeb** WIP status page."
-  introMessage: IntroMessage
+  name: 
+  introTitle: 
+  introMessage: 
   navbar:
 
 # Upptime also supports notifications, assigning issues, and more
