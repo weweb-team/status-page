@@ -21,10 +21,10 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.weweb.io
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: WeWeb
+  logoUrl: https://cdn.prod.website-files.com/62e9199d4976608473849e5a/683dd4bf5096e2fe24c314b8_weweb-logo-wordmark-white-p-500.png
+  name: Status Page
   introTitle: "This is the official **WeWeb** WIP status page."
-  introMessage: 
+  introMessage: IntroMessage
   navbar:
     - title: Status
       href: /
