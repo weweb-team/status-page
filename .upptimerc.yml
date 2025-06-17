@@ -7,8 +7,10 @@ sites:
     url: https://dashboard.weweb.io/
   - name: WeWeb Editor
     url: https://editor.weweb.io/
-  - name: WeWeb Published Websites
-    url: https://75728db6-a4ba-4b6b-a542-5db07b10642e.weweb-preview.io/
+  - name: WeWeb Published Websites (Weweb domain)
+    url: https://b67796af-1e4a-4265-9be2-72dcf41d8a78.weweb-preview.io/
+  - name: WeWeb Published Websites (Custom domain)
+    url: https://health-check.weweb.io
   - name: Xano (third-party)
     url: https://app.xano.com/
   - name: Supabase (third-party)
