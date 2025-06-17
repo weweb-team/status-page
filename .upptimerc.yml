@@ -19,6 +19,9 @@ sites:
     url: https://app.xano.com/
   - name: Supabase (third-party)
     url: https://supabase.com/dashboard/org
+    
+i18n:
+  footer: <a href="https://status.supabase.com/" target="_blanck">View Supabase status page</a><br>[WeWeb](https://weweb.io) status page, powered by [Upptime](https://upptime.js.org)
 
 status-website:
   favicon: https://cdn.prod.website-files.com/62e9199d4976608473849e5a/67fd2d8f6fbee43ca082876d_weweb-favicon-32.png
@@ -31,10 +34,6 @@ status-website:
   introTitle: "This is the official **WeWeb** WIP status page."
   introMessage: IntroMessage
   navbar:
-    - title: Status
-      href: /
-    - title: WeWeb
-      href: https://weweb.io
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
