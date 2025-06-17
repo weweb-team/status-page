@@ -5,16 +5,16 @@ repo: status-page # The name of this repository
 sites:
   - name: WeWeb Dashboard
     url: https://dashboard.weweb.io/
-    icon: https://cdn.prod.website-files.com/62e9199d4976608473849e5a/67fd2d8f6fbee43ca082876d_weweb-favicon-32.png
+    icon: https://raw.githubusercontent.com/weweb-team/status-page/refs/heads/master/assets/weweb-logo-icon-white.svg
   - name: WeWeb Editor
     url: https://editor.weweb.io/
-    icon: https://cdn.prod.website-files.com/62e9199d4976608473849e5a/67fd2d8f6fbee43ca082876d_weweb-favicon-32.png
+    icon: https://raw.githubusercontent.com/weweb-team/status-page/refs/heads/master/assets/weweb-logo-icon-white.svg
   - name: WeWeb Published Websites (weweb-preview.io domain)
     url: https://b67796af-1e4a-4265-9be2-72dcf41d8a78.weweb-preview.io/
-    icon: https://cdn.prod.website-files.com/62e9199d4976608473849e5a/67fd2d8f6fbee43ca082876d_weweb-favicon-32.png
+    icon: https://raw.githubusercontent.com/weweb-team/status-page/refs/heads/master/assets/weweb-logo-icon-white.svg
   - name: WeWeb Published Websites (Custom domain)
     url: https://health-check.weweb.io
-    icon: https://cdn.prod.website-files.com/62e9199d4976608473849e5a/67fd2d8f6fbee43ca082876d_weweb-favicon-32.png
+    icon: https://raw.githubusercontent.com/weweb-team/status-page/refs/heads/master/assets/weweb-logo-icon-white.svg
   - name: Xano (third-party)
     url: https://app.xano.com/
   - name: Supabase (third-party)
@@ -23,16 +23,15 @@ sites:
 i18n:
   footer: <a href="https://status.supabase.com/" target="_blanck">View Supabase status page</a><br>[WeWeb](https://weweb.io) status page, powered by [Upptime](https://upptime.js.org)
   liveStatus: System status
-  
 
 status-website:
   theme: dark
-  favicon: https://cdn.prod.website-files.com/62e9199d4976608473849e5a/67fd2d8f6fbee43ca082876d_weweb-favicon-32.png
+  favicon: https://raw.githubusercontent.com/weweb-team/status-page/refs/heads/master/assets/weweb-logo-icon-white.svg
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.weweb.io
   # baseUrl: /your-repo-name
-  logoUrl: https://cdn.prod.website-files.com/62e9199d4976608473849e5a/683dd4bf5096e2fe24c314b8_weweb-logo-wordmark-white-p-500.png
+  logoUrl: https://raw.githubusercontent.com/weweb-team/status-page/refs/heads/master/assets/weweb-logo-wordmark-white.svg
   name: ""
   introTitle: ""
   introMessage: ""
