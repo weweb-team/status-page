@@ -1,7 +1,4 @@
-document.addEventListener("DOMContentLoaded", function(event) {
-    let allSystemElement = document.querySelector("main .up")
-    if (allSystemElement !== null) {
-        let cleanString = allSystemElement.innerHTML.replace("✅ &nbsp; ", "")
-        let allSystemElement = allSystemElement.innerHTML = cleanString
-    }
-});
+if(document.querySelector("main .up") !== null) {
+    let cleanString = document.querySelector("main .up").innerHTML.replace("✅ &nbsp; ", "")
+    document.querySelector("main .up").innerHTML = cleanString
+}
