@@ -6,19 +6,25 @@ sites:
   - name: WeWeb Dashboard
     url: https://dashboard.weweb.io/
     icon: https://status.weweb.io/weweb-logo-icon-white.svg
+    slug: weweb-dashboard
   - name: WeWeb Editor
     url: https://editor.weweb.io/
     icon: https://status.weweb.io/weweb-logo-icon-white.svg
+    slug: weweb-editor
   - name: WeWeb Published Websites (weweb-preview.io domain)
     url: https://b67796af-1e4a-4265-9be2-72dcf41d8a78.weweb-preview.io/
     icon: https://status.weweb.io/weweb-logo-icon-white.svg
+    slug: weweb-published-no-domain
   - name: WeWeb Published Websites (Custom domain)
     url: https://health-check.weweb.io
     icon: https://status.weweb.io/weweb-logo-icon-white.svg
+    slug: weweb-published-custom-domain
   - name: Xano (third-party)
     url: https://app.xano.com/
+    slug: xano
   - name: Supabase (third-party)
     url: https://supabase.com/dashboard/org
+    slug: supabase
     
 i18n:
   footer: <a href="https://status.supabase.com/" target="_blanck">View Supabase status page</a><br>[WeWeb](https://weweb.io) status page, powered by [Upptime](https://upptime.js.org)
