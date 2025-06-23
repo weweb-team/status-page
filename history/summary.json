@@ -23,17 +23,19 @@
     "icon": "https://status.weweb.io/weweb-logo-icon-white.svg",
     "slug": "weweb-editor",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "94.14%",
+    "uptimeDay": "74.56%",
+    "uptimeWeek": "94.14%",
+    "uptimeMonth": "94.14%",
+    "uptimeYear": "94.14%",
     "time": 391,
     "timeDay": 340,
     "timeWeek": 391,
     "timeMonth": 391,
     "timeYear": 391,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-06-23": 366
+    }
   },
   {
     "name": "WeWeb Published Websites (weweb-preview.io domain)",
@@ -76,9 +78,9 @@
     "url": "https://app.xano.com/",
     "icon": "https://icons.duckduckgo.com/ip3/app.xano.com.ico",
     "slug": "xano",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -87,7 +89,9 @@
     "timeWeek": 290,
     "timeMonth": 290,
     "timeYear": 290,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-06-23": 0
+    }
   },
   {
     "name": "Supabase (third-party)",
