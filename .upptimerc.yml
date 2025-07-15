@@ -34,7 +34,7 @@ i18n:
 status-website:
   theme: dark
   favicon: https://status.weweb.io/weweb-logo-icon-white.svg
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
+  # Add your custom domain name, or remove the `cname` line if you don't have a domain.
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.weweb.io
   # baseUrl: /your-repo-name
