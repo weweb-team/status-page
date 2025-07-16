@@ -19,8 +19,6 @@ sites:
     url: https://app.xano.com/
   - name: Supabase (third-party)
     url: https://supabase.com/dashboard/org
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
     
 i18n:
   footer: <a href="https://status.supabase.com/" target="_blanck">View Supabase status page</a><br>[WeWeb](https://weweb.io) status page, powered by [Upptime](https://upptime.js.org)
