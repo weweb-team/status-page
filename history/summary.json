@@ -94,19 +94,19 @@
     "url": "https://supabase.com/dashboard/org",
     "icon": "https://icons.duckduckgo.com/ip3/supabase.com.ico",
     "slug": "supabase-third-party",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 97,
-    "timeDay": 110,
-    "timeWeek": 103,
-    "timeMonth": 97,
-    "timeYear": 97,
+    "status": "up",
+    "uptime": "99.41%",
+    "uptimeDay": "99.31%",
+    "uptimeWeek": "99.41%",
+    "uptimeMonth": "99.41%",
+    "uptimeYear": "99.41%",
+    "time": 98,
+    "timeDay": 113,
+    "timeWeek": 106,
+    "timeMonth": 98,
+    "timeYear": 98,
     "dailyMinutesDown": {
-      "2025-07-16": 0
+      "2025-07-16": 10
     }
   }
 ]
