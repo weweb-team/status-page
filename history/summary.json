@@ -40,18 +40,20 @@
     "url": "https://b67796af-1e4a-4265-9be2-72dcf41d8a78.weweb-preview.io/",
     "icon": "https://status.weweb.io/weweb-logo-icon-white.svg",
     "slug": "we-web-published-websites-weweb-preview-io-domain",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 266,
-    "timeDay": 418,
-    "timeWeek": 268,
-    "timeMonth": 268,
-    "timeYear": 266,
-    "dailyMinutesDown": {}
+    "time": 304,
+    "timeDay": 588,
+    "timeWeek": 329,
+    "timeMonth": 329,
+    "timeYear": 304,
+    "dailyMinutesDown": {
+      "2025-07-19": 0
+    }
   },
   {
     "name": "WeWeb Published Websites (Custom domain)",
