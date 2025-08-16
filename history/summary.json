@@ -13,7 +13,7 @@
     "time": 296,
     "timeDay": 279,
     "timeWeek": 254,
-    "timeMonth": 276,
+    "timeMonth": 263,
     "timeYear": 296,
     "dailyMinutesDown": {}
   },
@@ -31,7 +31,7 @@
     "time": 310,
     "timeDay": 126,
     "timeWeek": 262,
-    "timeMonth": 296,
+    "timeMonth": 283,
     "timeYear": 310,
     "dailyMinutesDown": {}
   },
@@ -49,7 +49,7 @@
     "time": 339,
     "timeDay": 229,
     "timeWeek": 280,
-    "timeMonth": 354,
+    "timeMonth": 356,
     "timeYear": 339,
     "dailyMinutesDown": {}
   },
@@ -67,7 +67,7 @@
     "time": 261,
     "timeDay": 511,
     "timeWeek": 303,
-    "timeMonth": 269,
+    "timeMonth": 274,
     "timeYear": 261,
     "dailyMinutesDown": {}
   },
@@ -76,18 +76,20 @@
     "url": "https://app.xano.com/",
     "icon": "https://icons.duckduckgo.com/ip3/app.xano.com.ico",
     "slug": "xano-third-party",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 235,
     "timeDay": 292,
     "timeWeek": 234,
-    "timeMonth": 232,
+    "timeMonth": 224,
     "timeYear": 235,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-16": 0
+    }
   },
   {
     "name": "Supabase (third-party)",
@@ -103,7 +105,7 @@
     "time": 118,
     "timeDay": 79,
     "timeWeek": 111,
-    "timeMonth": 125,
+    "timeMonth": 127,
     "timeYear": 118,
     "dailyMinutesDown": {}
   }
