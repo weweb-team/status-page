@@ -48,7 +48,7 @@
     "uptimeYear": "100.00%",
     "time": 333,
     "timeDay": 230,
-    "timeWeek": 279,
+    "timeWeek": 255,
     "timeMonth": 356,
     "timeYear": 333,
     "dailyMinutesDown": {}
@@ -76,9 +76,9 @@
     "url": "https://app.xano.com/",
     "icon": "https://icons.duckduckgo.com/ip3/app.xano.com.ico",
     "slug": "xano-third-party",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -87,7 +87,9 @@
     "timeWeek": 213,
     "timeMonth": 219,
     "timeYear": 232,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-18": 0
+    }
   },
   {
     "name": "Supabase (third-party)",
