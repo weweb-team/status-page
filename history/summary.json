@@ -41,19 +41,17 @@
     "icon": "https://status.weweb.io/weweb-logo-icon-white.svg",
     "slug": "we-web-published-websites-weweb-preview-io-domain",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.60%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 371,
     "timeDay": 1099,
     "timeWeek": 579,
     "timeMonth": 422,
     "timeYear": 371,
-    "dailyMinutesDown": {
-      "2025-08-25": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "WeWeb Published Websites (Custom domain)",
@@ -96,9 +94,9 @@
     "url": "https://supabase.com/dashboard/org",
     "icon": "https://icons.duckduckgo.com/ip3/supabase.com.ico",
     "slug": "supabase-third-party",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -107,6 +105,8 @@
     "timeWeek": 129,
     "timeMonth": 135,
     "timeYear": 120,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-25": 0
+    }
   }
 ]
