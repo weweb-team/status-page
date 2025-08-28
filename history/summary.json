@@ -94,10 +94,10 @@
     "url": "https://supabase.com/dashboard/org",
     "icon": "https://icons.duckduckgo.com/ip3/supabase.com.ico",
     "slug": "supabase-third-party",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.64%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.63%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.94%",
     "time": 126,
@@ -106,6 +106,7 @@
     "timeMonth": 142,
     "timeYear": 126,
     "dailyMinutesDown": {
+      "2025-08-28": 0,
       "2025-08-26": 37
     }
   }
