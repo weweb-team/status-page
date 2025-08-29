@@ -96,17 +96,17 @@
     "slug": "supabase-third-party",
     "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "99.58%",
-    "uptimeMonth": "99.90%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.63%",
+    "uptimeMonth": "99.92%",
     "uptimeYear": "99.94%",
     "time": 125,
-    "timeDay": 104,
-    "timeWeek": 144,
+    "timeDay": 93,
+    "timeWeek": 143,
     "timeMonth": 135,
     "timeYear": 125,
     "dailyMinutesDown": {
-      "2025-08-29": 5,
+      "2025-08-29": 0,
       "2025-08-26": 37
     }
   }
