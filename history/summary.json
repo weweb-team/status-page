@@ -40,19 +40,19 @@
     "url": "https://b67796af-1e4a-4265-9be2-72dcf41d8a78.weweb-preview.io/",
     "icon": "https://status.weweb.io/weweb-logo-icon-white.svg",
     "slug": "we-web-published-websites-weweb-preview-io-domain",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 406,
-    "timeDay": 334,
-    "timeWeek": 467,
-    "timeMonth": 418,
-    "timeYear": 406,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.56%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 405,
+    "timeDay": 322,
+    "timeWeek": 453,
+    "timeMonth": 414,
+    "timeYear": 405,
     "dailyMinutesDown": {
-      "2025-10-05": 0
+      "2025-10-05": 6
     }
   },
   {
