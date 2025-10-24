@@ -4,36 +4,40 @@
     "url": "https://dashboard.weweb.io/",
     "icon": "https://status.weweb.io/weweb-logo-icon-white.svg",
     "slug": "we-web-dashboard",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 323,
-    "timeDay": 434,
-    "timeWeek": 401,
-    "timeMonth": 365,
-    "timeYear": 323,
-    "dailyMinutesDown": {}
+    "time": 322,
+    "timeDay": 339,
+    "timeWeek": 381,
+    "timeMonth": 362,
+    "timeYear": 322,
+    "dailyMinutesDown": {
+      "2025-10-24": 0
+    }
   },
   {
     "name": "WeWeb Editor",
     "url": "https://editor.weweb.io/",
     "icon": "https://status.weweb.io/weweb-logo-icon-white.svg",
     "slug": "we-web-editor",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 323,
-    "timeDay": 473,
-    "timeWeek": 377,
-    "timeMonth": 338,
+    "timeDay": 362,
+    "timeWeek": 361,
+    "timeMonth": 335,
     "timeYear": 323,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-10-24": 0
+    }
   },
   {
     "name": "WeWeb Published Websites (weweb-preview.io domain)",
@@ -58,18 +62,20 @@
     "url": "https://health-check.weweb.io",
     "icon": "https://status.weweb.io/weweb-logo-icon-white.svg",
     "slug": "we-web-published-websites-custom-domain",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 256,
-    "timeDay": 469,
-    "timeWeek": 240,
-    "timeMonth": 239,
-    "timeYear": 256,
-    "dailyMinutesDown": {}
+    "time": 255,
+    "timeDay": 340,
+    "timeWeek": 236,
+    "timeMonth": 238,
+    "timeYear": 255,
+    "dailyMinutesDown": {
+      "2025-10-24": 0
+    }
   },
   {
     "name": "Xano (third-party)",
