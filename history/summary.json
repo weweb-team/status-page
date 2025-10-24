@@ -4,19 +4,19 @@
     "url": "https://dashboard.weweb.io/",
     "icon": "https://status.weweb.io/weweb-logo-icon-white.svg",
     "slug": "we-web-dashboard",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.79%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 322,
-    "timeDay": 339,
-    "timeWeek": 381,
-    "timeMonth": 362,
-    "timeYear": 322,
+    "time": 323,
+    "timeDay": 366,
+    "timeWeek": 385,
+    "timeMonth": 364,
+    "timeYear": 323,
     "dailyMinutesDown": {
-      "2025-10-24": 0
+      "2025-10-24": 3
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://editor.weweb.io/",
     "icon": "https://status.weweb.io/weweb-logo-icon-white.svg",
     "slug": "we-web-editor",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.79%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 323,
-    "timeDay": 362,
-    "timeWeek": 361,
-    "timeMonth": 335,
-    "timeYear": 323,
+    "time": 324,
+    "timeDay": 391,
+    "timeWeek": 371,
+    "timeMonth": 339,
+    "timeYear": 324,
     "dailyMinutesDown": {
-      "2025-10-24": 0
+      "2025-10-24": 3
     }
   },
   {
@@ -62,19 +62,19 @@
     "url": "https://health-check.weweb.io",
     "icon": "https://status.weweb.io/weweb-logo-icon-white.svg",
     "slug": "we-web-published-websites-custom-domain",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.78%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 255,
-    "timeDay": 340,
-    "timeWeek": 236,
+    "timeDay": 309,
+    "timeWeek": 237,
     "timeMonth": 238,
     "timeYear": 255,
     "dailyMinutesDown": {
-      "2025-10-24": 0
+      "2025-10-24": 3
     }
   },
   {
