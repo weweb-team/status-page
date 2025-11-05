@@ -31,7 +31,7 @@
     "time": 318,
     "timeDay": 381,
     "timeWeek": 299,
-    "timeMonth": 310,
+    "timeMonth": 308,
     "timeYear": 318,
     "dailyMinutesDown": {}
   },
@@ -40,18 +40,20 @@
     "url": "https://b67796af-1e4a-4265-9be2-72dcf41d8a78.weweb-preview.io/",
     "icon": "https://status.weweb.io/weweb-logo-icon-white.svg",
     "slug": "we-web-published-websites-weweb-preview-io-domain",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 403,
-    "timeDay": 361,
-    "timeWeek": 669,
-    "timeMonth": 392,
-    "timeYear": 403,
-    "dailyMinutesDown": {}
+    "time": 402,
+    "timeDay": 267,
+    "timeWeek": 620,
+    "timeMonth": 391,
+    "timeYear": 402,
+    "dailyMinutesDown": {
+      "2025-11-05": 0
+    }
   },
   {
     "name": "WeWeb Published Websites (Custom domain)",
@@ -67,7 +69,7 @@
     "time": 261,
     "timeDay": 253,
     "timeWeek": 235,
-    "timeMonth": 263,
+    "timeMonth": 264,
     "timeYear": 261,
     "dailyMinutesDown": {}
   },
