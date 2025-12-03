@@ -42,18 +42,16 @@
     "slug": "we-web-published-websites-weweb-preview-io-domain",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.51%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 394,
     "timeDay": 381,
     "timeWeek": 378,
     "timeMonth": 355,
     "timeYear": 394,
-    "dailyMinutesDown": {
-      "2025-12-02": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "WeWeb Published Websites (Custom domain)",
