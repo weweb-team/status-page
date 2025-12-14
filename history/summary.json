@@ -6,18 +6,16 @@
     "slug": "we-web-dashboard",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.50%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 349,
     "timeDay": 451,
     "timeWeek": 335,
     "timeMonth": 427,
     "timeYear": 349,
-    "dailyMinutesDown": {
-      "2025-12-13": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "WeWeb Editor",
@@ -26,18 +24,16 @@
     "slug": "we-web-editor",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.52%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 353,
     "timeDay": 431,
     "timeWeek": 360,
     "timeMonth": 493,
     "timeYear": 353,
-    "dailyMinutesDown": {
-      "2025-12-13": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "WeWeb Published Websites (weweb-preview.io domain)",
