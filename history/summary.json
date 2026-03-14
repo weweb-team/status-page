@@ -76,19 +76,19 @@
     "url": "https://app.xano.com/",
     "icon": "https://icons.duckduckgo.com/ip3/app.xano.com.ico",
     "slug": "xano-third-party",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.17%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 242,
-    "timeDay": 302,
-    "timeWeek": 282,
+    "timeDay": 268,
+    "timeWeek": 276,
     "timeMonth": 247,
     "timeYear": 242,
     "dailyMinutesDown": {
-      "2026-03-14": 0
+      "2026-03-14": 12
     }
   },
   {
