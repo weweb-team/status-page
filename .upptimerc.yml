@@ -10,7 +10,7 @@ sites:
     url: https://editor.weweb.io/
     icon: https://status.weweb.io/weweb-logo-icon-white.svg
   - name: WeWeb Published Websites (weweb-preview.io domain)
-    url: https://b67796af-1e4a-4265-9be2-72dcf41d8a78.weweb-preview.io/
+    url: https://b67796af-1e4a-4265-9be2-72dcf41d8a78-production.weweb.io/
     icon: https://status.weweb.io/weweb-logo-icon-white.svg
   - name: WeWeb Published Websites (Custom domain)
     url: https://health-check.weweb.io
