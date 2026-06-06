@@ -1,7 +1,7 @@
 url: https://dashboard.weweb.io/
-status: up
-code: 200
-responseTime: 254
-lastUpdated: 2026-06-06T08:43:57.081Z
+status: down
+code: 403
+responseTime: 207
+lastUpdated: 2026-06-06T09:09:12.686Z
 startTime: 2025-07-15T15:35:54.094Z
 generator: Upptime <https://github.com/upptime/upptime>
