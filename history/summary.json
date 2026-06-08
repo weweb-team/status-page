@@ -4,19 +4,20 @@
     "url": "https://dashboard.weweb.io/",
     "icon": "https://status.weweb.io/weweb-logo-icon-white.svg",
     "slug": "we-web-dashboard",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "98.96%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "98.30%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.99%",
     "time": 278,
-    "timeDay": 195,
+    "timeDay": 196,
     "timeWeek": 195,
     "timeMonth": 201,
     "timeYear": 278,
     "dailyMinutesDown": {
-      "2026-06-07": 15
+      "2026-06-07": 15,
+      "2026-06-08": 9
     }
   },
   {
@@ -24,18 +25,20 @@
     "url": "https://editor.weweb.io/",
     "icon": "https://status.weweb.io/weweb-logo-icon-white.svg",
     "slug": "we-web-editor",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.83%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 312,
-    "timeDay": 279,
+    "timeDay": 288,
     "timeWeek": 275,
     "timeMonth": 288,
     "timeYear": 312,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-06-08": 2
+    }
   },
   {
     "name": "WeWeb Published Websites (weweb-preview.io domain)",
@@ -49,7 +52,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 274,
-    "timeDay": 113,
+    "timeDay": 117,
     "timeWeek": 96,
     "timeMonth": 98,
     "timeYear": 274,
@@ -69,7 +72,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 198,
-    "timeDay": 97,
+    "timeDay": 96,
     "timeWeek": 140,
     "timeMonth": 145,
     "timeYear": 198,
