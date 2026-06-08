@@ -4,12 +4,12 @@
     "url": "https://dashboard.weweb.io/",
     "icon": "https://status.weweb.io/weweb-logo-icon-white.svg",
     "slug": "we-web-dashboard",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "98.62%",
-    "uptimeWeek": "99.80%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "97.95%",
+    "uptimeWeek": "99.71%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.99%",
     "time": 277,
     "timeDay": 195,
     "timeWeek": 194,
@@ -17,7 +17,7 @@
     "timeYear": 277,
     "dailyMinutesDown": {
       "2026-06-07": 15,
-      "2026-06-08": 5
+      "2026-06-08": 15
     }
   },
   {
@@ -25,11 +25,11 @@
     "url": "https://editor.weweb.io/",
     "icon": "https://status.weweb.io/weweb-logo-icon-white.svg",
     "slug": "we-web-editor",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.68%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.48%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 312,
     "timeDay": 289,
@@ -37,7 +37,7 @@
     "timeMonth": 288,
     "timeYear": 312,
     "dailyMinutesDown": {
-      "2026-06-08": 5
+      "2026-06-08": 7
     }
   },
   {
@@ -45,20 +45,20 @@
     "url": "https://b67796af-1e4a-4265-9be2-72dcf41d8a78-production.weweb.io/",
     "icon": "https://status.weweb.io/weweb-logo-icon-white.svg",
     "slug": "we-web-published-websites-weweb-preview-io-domain",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.69%",
-    "uptimeWeek": "99.96%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "99.95%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
-    "time": 273,
-    "timeDay": 112,
+    "time": 272,
+    "timeDay": 111,
     "timeWeek": 95,
-    "timeMonth": 98,
-    "timeYear": 273,
+    "timeMonth": 97,
+    "timeYear": 272,
     "dailyMinutesDown": {
       "2026-04-08": 63,
-      "2026-06-08": 4
+      "2026-06-08": 5
     }
   },
   {
@@ -66,19 +66,19 @@
     "url": "https://health-check.weweb.io",
     "icon": "https://status.weweb.io/weweb-logo-icon-white.svg",
     "slug": "we-web-published-websites-custom-domain",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.71%",
-    "uptimeWeek": "99.96%",
+    "uptimeDay": "99.83%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 197,
-    "timeDay": 96,
-    "timeWeek": 139,
+    "timeDay": 94,
+    "timeWeek": 138,
     "timeMonth": 143,
     "timeYear": 197,
     "dailyMinutesDown": {
-      "2026-06-08": 4
+      "2026-06-08": 2
     }
   },
   {
