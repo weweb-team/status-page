@@ -6,18 +6,16 @@
     "slug": "we-web-dashboard",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 273,
-    "timeDay": 176,
+    "timeDay": 192,
     "timeWeek": 195,
     "timeMonth": 201,
     "timeYear": 273,
-    "dailyMinutesDown": {
-      "2026-06-09": 2
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "WeWeb Editor",
@@ -26,18 +24,16 @@
     "slug": "we-web-editor",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 310,
-    "timeDay": 233,
+    "timeDay": 226,
     "timeWeek": 271,
     "timeMonth": 285,
     "timeYear": 310,
-    "dailyMinutesDown": {
-      "2026-06-09": 2
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "WeWeb Published Websites (weweb-preview.io domain)",
@@ -46,18 +42,17 @@
     "slug": "we-web-published-websites-weweb-preview-io-domain",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 265,
-    "timeDay": 162,
+    "timeDay": 172,
     "timeWeek": 102,
     "timeMonth": 102,
     "timeYear": 265,
     "dailyMinutesDown": {
-      "2026-04-08": 63,
-      "2026-06-09": 1
+      "2026-04-08": 63
     }
   },
   {
@@ -67,18 +62,16 @@
     "slug": "we-web-published-websites-custom-domain",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 193,
-    "timeDay": 110,
+    "timeDay": 107,
     "timeWeek": 135,
     "timeMonth": 141,
     "timeYear": 193,
-    "dailyMinutesDown": {
-      "2026-06-09": 1
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Xano (third-party)",
