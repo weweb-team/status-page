@@ -4,19 +4,19 @@
     "url": "https://dashboard.weweb.io/",
     "icon": "https://status.weweb.io/weweb-logo-icon-white.svg",
     "slug": "we-web-dashboard",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "98.81%",
-    "uptimeWeek": "99.83%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "98.30%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.99%",
     "time": 274,
     "timeDay": 247,
     "timeWeek": 200,
     "timeMonth": 205,
     "timeYear": 274,
     "dailyMinutesDown": {
-      "2026-06-10": 17
+      "2026-06-10": 25
     }
   },
   {
@@ -24,15 +24,15 @@
     "url": "https://editor.weweb.io/",
     "icon": "https://status.weweb.io/weweb-logo-icon-white.svg",
     "slug": "we-web-editor",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.86%",
+    "uptimeDay": "99.83%",
     "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 310,
     "timeDay": 269,
-    "timeWeek": 275,
+    "timeWeek": 276,
     "timeMonth": 287,
     "timeYear": 310,
     "dailyMinutesDown": {
@@ -46,8 +46,8 @@
     "slug": "we-web-published-websites-weweb-preview-io-domain",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 264,
@@ -56,8 +56,7 @@
     "timeMonth": 104,
     "timeYear": 264,
     "dailyMinutesDown": {
-      "2026-04-08": 63,
-      "2026-06-10": 2
+      "2026-04-08": 63
     }
   },
   {
@@ -67,18 +66,16 @@
     "slug": "we-web-published-websites-custom-domain",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 192,
     "timeDay": 141,
-    "timeWeek": 136,
+    "timeWeek": 137,
     "timeMonth": 141,
     "timeYear": 192,
-    "dailyMinutesDown": {
-      "2026-06-10": 2
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Xano (third-party)",
