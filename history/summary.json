@@ -4,55 +4,60 @@
     "url": "https://dashboard.weweb.io/",
     "icon": "https://status.weweb.io/weweb-logo-icon-white.svg",
     "slug": "we-web-dashboard",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 271,
-    "timeDay": 274,
-    "timeWeek": 251,
-    "timeMonth": 216,
-    "timeYear": 270,
-    "dailyMinutesDown": {}
+    "timeDay": 177,
+    "timeWeek": 249,
+    "timeMonth": 215,
+    "timeYear": 269,
+    "dailyMinutesDown": {
+      "2026-06-19": 1
+    }
   },
   {
     "name": "WeWeb Editor",
     "url": "https://editor.weweb.io/",
     "icon": "https://status.weweb.io/weweb-logo-icon-white.svg",
     "slug": "we-web-editor",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 315,
-    "timeDay": 358,
-    "timeWeek": 339,
-    "timeMonth": 298,
-    "timeYear": 314,
-    "dailyMinutesDown": {}
+    "time": 314,
+    "timeDay": 287,
+    "timeWeek": 337,
+    "timeMonth": 297,
+    "timeYear": 313,
+    "dailyMinutesDown": {
+      "2026-06-19": 1
+    }
   },
   {
     "name": "WeWeb Published Websites (weweb-preview.io domain)",
     "url": "https://b67796af-1e4a-4265-9be2-72dcf41d8a78-production.weweb.io/",
     "icon": "https://status.weweb.io/weweb-logo-icon-white.svg",
     "slug": "we-web-published-websites-weweb-preview-io-domain",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 246,
-    "timeDay": 86,
+    "time": 245,
+    "timeDay": 30,
     "timeWeek": 87,
     "timeMonth": 100,
-    "timeYear": 246,
+    "timeYear": 245,
     "dailyMinutesDown": {
-      "2026-04-08": 63
+      "2026-04-08": 63,
+      "2026-06-19": 0
     }
   },
   {
@@ -60,18 +65,20 @@
     "url": "https://health-check.weweb.io",
     "icon": "https://status.weweb.io/weweb-logo-icon-white.svg",
     "slug": "we-web-published-websites-custom-domain",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 188,
-    "timeDay": 76,
+    "timeDay": 33,
     "timeWeek": 160,
     "timeMonth": 143,
-    "timeYear": 187,
-    "dailyMinutesDown": {}
+    "timeYear": 186,
+    "dailyMinutesDown": {
+      "2026-06-19": 0
+    }
   },
   {
     "name": "Xano (third-party)",
