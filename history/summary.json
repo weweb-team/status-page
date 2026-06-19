@@ -6,18 +6,16 @@
     "slug": "we-web-dashboard",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.67%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 271,
-    "timeDay": 268,
-    "timeWeek": 252,
+    "timeDay": 274,
+    "timeWeek": 251,
     "timeMonth": 216,
     "timeYear": 270,
-    "dailyMinutesDown": {
-      "2026-06-18": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "WeWeb Editor",
@@ -26,18 +24,16 @@
     "slug": "we-web-editor",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.68%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 314,
-    "timeDay": 337,
-    "timeWeek": 338,
+    "time": 315,
+    "timeDay": 358,
+    "timeWeek": 339,
     "timeMonth": 298,
     "timeYear": 314,
-    "dailyMinutesDown": {
-      "2026-06-18": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "WeWeb Published Websites (weweb-preview.io domain)",
@@ -46,18 +42,17 @@
     "slug": "we-web-published-websites-weweb-preview-io-domain",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.69%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 246,
     "timeDay": 86,
-    "timeWeek": 91,
-    "timeMonth": 101,
+    "timeWeek": 87,
+    "timeMonth": 100,
     "timeYear": 246,
     "dailyMinutesDown": {
-      "2026-04-08": 63,
-      "2026-06-18": 4
+      "2026-04-08": 63
     }
   },
   {
@@ -67,18 +62,16 @@
     "slug": "we-web-published-websites-custom-domain",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.70%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 188,
-    "timeDay": 89,
-    "timeWeek": 163,
+    "timeDay": 76,
+    "timeWeek": 160,
     "timeMonth": 143,
     "timeYear": 187,
-    "dailyMinutesDown": {
-      "2026-06-18": 4
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Xano (third-party)",
@@ -92,10 +85,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 251,
-    "timeDay": 224,
-    "timeWeek": 288,
-    "timeMonth": 267,
-    "timeYear": 250,
+    "timeDay": 307,
+    "timeWeek": 281,
+    "timeMonth": 264,
+    "timeYear": 251,
     "dailyMinutesDown": {}
   },
   {
@@ -110,8 +103,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 132,
-    "timeDay": 240,
-    "timeWeek": 122,
+    "timeDay": 64,
+    "timeWeek": 116,
     "timeMonth": 113,
     "timeYear": 133,
     "dailyMinutesDown": {
