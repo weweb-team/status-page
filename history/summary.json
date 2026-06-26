@@ -4,20 +4,18 @@
     "url": "https://dashboard.weweb.io/",
     "icon": "https://status.weweb.io/weweb-logo-icon-white.svg",
     "slug": "we-web-dashboard",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.67%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 271,
-    "timeDay": 179,
-    "timeWeek": 294,
+    "timeDay": 254,
+    "timeWeek": 273,
     "timeMonth": 217,
     "timeYear": 270,
-    "dailyMinutesDown": {
-      "2026-06-25": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "WeWeb Editor",
@@ -26,18 +24,16 @@
     "slug": "we-web-editor",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.68%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 322,
-    "timeDay": 388,
-    "timeWeek": 527,
-    "timeMonth": 313,
+    "timeDay": 372,
+    "timeWeek": 626,
+    "timeMonth": 312,
     "timeYear": 321,
-    "dailyMinutesDown": {
-      "2026-06-25": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "WeWeb Published Websites (weweb-preview.io domain)",
@@ -46,18 +42,17 @@
     "slug": "we-web-published-websites-weweb-preview-io-domain",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.70%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 243,
-    "timeDay": 36,
-    "timeWeek": 90,
-    "timeMonth": 100,
+    "timeDay": 117,
+    "timeWeek": 101,
+    "timeMonth": 101,
     "timeYear": 242,
     "dailyMinutesDown": {
-      "2026-04-08": 63,
-      "2026-06-25": 4
+      "2026-04-08": 63
     }
   },
   {
@@ -67,18 +62,16 @@
     "slug": "we-web-published-websites-custom-domain",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.71%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 187,
-    "timeDay": 156,
-    "timeWeek": 102,
+    "timeDay": 130,
+    "timeWeek": 127,
     "timeMonth": 142,
     "timeYear": 185,
-    "dailyMinutesDown": {
-      "2026-06-25": 4
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Xano (third-party)",
@@ -92,9 +85,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 251,
-    "timeDay": 148,
-    "timeWeek": 274,
-    "timeMonth": 275,
+    "timeDay": 219,
+    "timeWeek": 262,
+    "timeMonth": 274,
     "timeYear": 251,
     "dailyMinutesDown": {}
   },
@@ -110,8 +103,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 132,
-    "timeDay": 85,
-    "timeWeek": 111,
+    "timeDay": 178,
+    "timeWeek": 127,
     "timeMonth": 115,
     "timeYear": 133,
     "dailyMinutesDown": {
