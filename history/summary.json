@@ -6,15 +6,15 @@
     "slug": "we-web-dashboard",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.34%",
-    "uptimeWeek": "99.91%",
+    "uptimeDay": "99.31%",
+    "uptimeWeek": "99.90%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 271,
     "timeDay": 343,
     "timeWeek": 299,
     "timeMonth": 217,
-    "timeYear": 270,
+    "timeYear": 269,
     "dailyMinutesDown": {
       "2026-06-28": 10
     }
@@ -24,19 +24,19 @@
     "url": "https://editor.weweb.io/",
     "icon": "https://status.weweb.io/weweb-logo-icon-white.svg",
     "slug": "we-web-editor",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.83%",
-    "uptimeWeek": "99.98%",
+    "uptimeDay": "99.80%",
+    "uptimeWeek": "99.97%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 322,
-    "timeDay": 636,
-    "timeWeek": 397,
-    "timeMonth": 312,
-    "timeYear": 321,
+    "timeDay": 557,
+    "timeWeek": 403,
+    "timeMonth": 313,
+    "timeYear": 322,
     "dailyMinutesDown": {
-      "2026-06-28": 2
+      "2026-06-28": 3
     }
   },
   {
