@@ -4,20 +4,18 @@
     "url": "https://dashboard.weweb.io/",
     "icon": "https://status.weweb.io/weweb-logo-icon-white.svg",
     "slug": "we-web-dashboard",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.31%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 271,
-    "timeDay": 343,
-    "timeWeek": 299,
-    "timeMonth": 217,
+    "timeDay": 234,
+    "timeWeek": 284,
+    "timeMonth": 218,
     "timeYear": 269,
-    "dailyMinutesDown": {
-      "2026-06-28": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "WeWeb Editor",
@@ -26,18 +24,16 @@
     "slug": "we-web-editor",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.80%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 322,
-    "timeDay": 557,
-    "timeWeek": 403,
+    "timeDay": 459,
+    "timeWeek": 425,
     "timeMonth": 313,
     "timeYear": 322,
-    "dailyMinutesDown": {
-      "2026-06-28": 3
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "WeWeb Published Websites (weweb-preview.io domain)",
@@ -51,9 +47,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 242,
-    "timeDay": 168,
-    "timeWeek": 122,
-    "timeMonth": 101,
+    "timeDay": 173,
+    "timeWeek": 134,
+    "timeMonth": 102,
     "timeYear": 242,
     "dailyMinutesDown": {
       "2026-04-08": 63
@@ -71,9 +67,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 187,
-    "timeDay": 203,
-    "timeWeek": 162,
-    "timeMonth": 142,
+    "timeDay": 248,
+    "timeWeek": 171,
+    "timeMonth": 143,
     "timeYear": 185,
     "dailyMinutesDown": {}
   },
@@ -89,9 +85,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 251,
-    "timeDay": 237,
-    "timeWeek": 227,
-    "timeMonth": 267,
+    "timeDay": 260,
+    "timeWeek": 222,
+    "timeMonth": 269,
     "timeYear": 251,
     "dailyMinutesDown": {}
   },
@@ -107,8 +103,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 132,
-    "timeDay": 144,
-    "timeWeek": 127,
+    "timeDay": 88,
+    "timeWeek": 128,
     "timeMonth": 116,
     "timeYear": 133,
     "dailyMinutesDown": {
