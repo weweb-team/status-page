@@ -1,7 +1,7 @@
 url: https://health-check.weweb.io
-status: up
-code: 200
-responseTime: 115
-lastUpdated: 2026-06-29T23:20:03.394Z
+status: down
+code: 403
+responseTime: 35
+lastUpdated: 2026-06-30T06:09:28.015Z
 startTime: 2025-07-15T15:35:56.179Z
 generator: Upptime <https://github.com/upptime/upptime>
