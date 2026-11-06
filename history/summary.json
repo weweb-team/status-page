@@ -4,18 +4,20 @@
     "url": "https://dashboard.weweb.io/",
     "icon": "https://status.weweb.io/weweb-logo-icon-white.svg",
     "slug": "we-web-dashboard",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 298,
-    "timeDay": 163,
-    "timeWeek": 219,
-    "timeMonth": 337,
-    "timeYear": 294,
-    "dailyMinutesDown": {}
+    "timeDay": 145,
+    "timeWeek": 208,
+    "timeMonth": 331,
+    "timeYear": 293,
+    "dailyMinutesDown": {
+      "2026-11-06": 0
+    }
   },
   {
     "name": "WeWeb Editor",
