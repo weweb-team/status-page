@@ -4,19 +4,19 @@
     "url": "https://dashboard.weweb.io/",
     "icon": "https://status.weweb.io/weweb-logo-icon-white.svg",
     "slug": "we-web-dashboard",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.63%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 298,
-    "timeDay": 145,
-    "timeWeek": 208,
-    "timeMonth": 331,
+    "timeDay": 230,
+    "timeWeek": 229,
+    "timeMonth": 333,
     "timeYear": 293,
     "dailyMinutesDown": {
-      "2026-11-06": 0
+      "2026-11-06": 5
     }
   },
   {
