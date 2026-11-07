@@ -6,18 +6,16 @@
     "slug": "we-web-dashboard",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.63%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 298,
-    "timeDay": 230,
-    "timeWeek": 229,
-    "timeMonth": 333,
+    "timeDay": 250,
+    "timeWeek": 227,
+    "timeMonth": 329,
     "timeYear": 293,
-    "dailyMinutesDown": {
-      "2026-11-06": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "WeWeb Editor",
@@ -31,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 351,
-    "timeDay": 123,
-    "timeWeek": 366,
-    "timeMonth": 422,
+    "timeDay": 259,
+    "timeWeek": 345,
+    "timeMonth": 408,
     "timeYear": 359,
     "dailyMinutesDown": {}
   },
@@ -49,9 +47,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 229,
-    "timeDay": 146,
-    "timeWeek": 140,
-    "timeMonth": 130,
+    "timeDay": 279,
+    "timeWeek": 166,
+    "timeMonth": 136,
     "timeYear": 184,
     "dailyMinutesDown": {
       "2026-04-08": 63
@@ -69,9 +67,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 189,
-    "timeDay": 159,
-    "timeWeek": 240,
-    "timeMonth": 244,
+    "timeDay": 216,
+    "timeWeek": 239,
+    "timeMonth": 238,
     "timeYear": 173,
     "dailyMinutesDown": {}
   },
@@ -87,10 +85,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 254,
-    "timeDay": 180,
-    "timeWeek": 253,
-    "timeMonth": 273,
-    "timeYear": 261,
+    "timeDay": 209,
+    "timeWeek": 248,
+    "timeMonth": 269,
+    "timeYear": 260,
     "dailyMinutesDown": {}
   },
   {
@@ -105,8 +103,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 132,
-    "timeDay": 103,
-    "timeWeek": 134,
+    "timeDay": 105,
+    "timeWeek": 127,
     "timeMonth": 126,
     "timeYear": 126,
     "dailyMinutesDown": {}
